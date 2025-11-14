@@ -17,4 +17,5 @@
 
 ## Captura 5.2:
 ![Captura 5.2](imagenes/5.2.png)
+-Error ya que se encuentra eliminado-
 
